@@ -1,0 +1,52 @@
+<title>CV</title>
+<nav>
+  <h1>CURRICULUM VITAE DE RAJAH MBOGO</h1></nav>
+<main>
+  <p>NOM : MBOGO BAHIGA RAJAH</p>
+  <P>LIEU ET DATE DE NAISSANCE : BUKAVU, 18/11/1992</P>
+  <p>ADRESSE : 30,AV KATOYI 1, GOMA</p>
+  <p><b>PROFIL</b></p>
+  <p>DIPLOMÉ EN GEOLOGIE</p>
+  <P>Diplômé en Géologie de l’Université Officielle de Bukavu depuis 2016. <p>Grace aux divers postes que j’ai pu occuper, j’ai acquis une expérience dans de nombreux domaines et mes aptitudes se sont diversifiés en me permettant une bonne capacité d’analyse documentaire, une gestion efficace des opérations ainsi que des équipes.</P>
+<p><b>EXPERIENCE PROFESSIONNELLE</b></p>
+<p><i><b>1) CONNEXAFRICA GOMA</b> Février 2022 à nos jours</i></p>
+<p><b>Account manager puis Import manager Nord-Est</b></p>
+<p>Supervision de tout le processus d’importation, depuis le traitement des demandes des clients, la réception des marchandises à leur arrivée à la frontière, le dédouanement et la livraison auprès du destinataire final.
+</p>
+<p><i><b>2) DIMIEX LUBUMBASHI Aout à Décembre 2021</b></i></p>
+  <p><b>Géologue consultant</b></p>
+<p>Participation à plusieurs campagnes d’exploration, cartographie, soil sampling (Mwawa près de Lumata, Mokambo) et d’exploitation (Mine de Goma, tout près de Kisanfu, province de Lualaba).
+</p>
+<p><b>LANGUES PARLEES</b></p>
+<p>.Français</p>
+<p>.Anglais</p>
+<p>.Kiswahili</p>
+<p>.Lingala</p>
+</main>
+<footer>
+<table border="1" cellspacing="0" cellpadding="S">
+ <th> 
+   <tr>
+    <td> Noms</td>
+    <td>Organisation- titre</td>
+    <td>contacts/ email</td>
+</tr>
+  </th>
+<tr>
+  <td>GUY KOMANDA</td>
+  <td>Directeur des OPS CONNEXAFRICA</td>
+  <td>g.komanda@connexafrica.com</td></tr>
+<tr>
+  <td>JIMMY KAMBALE</td>
+  <td>Manager exploration DIMIEX</td>
+  <td>+243 999 037 755 </td>
+    
+  </tr>
+
+  <td>JACOB MAZOMBO</td>
+  <td>Logistics specialist à EASTCASTLE DRC SARL</td>
+  <td>jacob.M@ecinfras.com</td>
+    
+  </tr>
+ </table>
+</footer>
